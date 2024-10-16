@@ -1,4 +1,4 @@
-## Team 25 Adventure Game
+##  Text Based Adventure Game
 
 ## Description
-Gitlab repos for CM1101 Team 25's Adventure Game project.
+Made a text based adventure game as one of my first projects in University.
